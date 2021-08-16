@@ -1,0 +1,5 @@
+pip
+wheel
+
+# image and video management
+opencv-python
