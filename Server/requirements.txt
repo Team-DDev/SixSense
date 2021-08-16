@@ -1,6 +1,5 @@
 pip
 wheel
 
-# Communication protocol
-## 2021. 07. 29 - gRPC
-grpcio
+# image and video management
+cv2
