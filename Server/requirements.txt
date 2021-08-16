@@ -2,4 +2,4 @@ pip
 wheel
 
 # image and video management
-cv2
+opencv-python
